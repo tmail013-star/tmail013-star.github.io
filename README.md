@@ -627,14 +627,3 @@ window.addEventListener('mousemove',(e)=>{
 </html>
 ```
 
-Things you can easily customize:
-
-* Change all text
-* Replace the photo
-* Add more pages
-* Change colors
-* Add music
-* Add your own inside jokes
-* Add real memories
-* Change button names
-* Add more popups/interactions
